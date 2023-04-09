@@ -12,6 +12,8 @@ class MainActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
+        //
+
 
         val numone = 15
         val numtwo = 20
